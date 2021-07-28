@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/orteney-recipes/static/css/main.ae41823f.chunk.css",
+    "main.js": "/orteney-recipes/static/js/main.cfda8e56.chunk.js",
+    "main.js.map": "/orteney-recipes/static/js/main.cfda8e56.chunk.js.map",
+    "runtime-main.js": "/orteney-recipes/static/js/runtime-main.efe8c417.js",
+    "runtime-main.js.map": "/orteney-recipes/static/js/runtime-main.efe8c417.js.map",
+    "static/js/2.4d13a232.chunk.js": "/orteney-recipes/static/js/2.4d13a232.chunk.js",
+    "static/js/2.4d13a232.chunk.js.map": "/orteney-recipes/static/js/2.4d13a232.chunk.js.map",
+    "index.html": "/orteney-recipes/index.html",
+    "static/css/main.ae41823f.chunk.css.map": "/orteney-recipes/static/css/main.ae41823f.chunk.css.map",
+    "static/js/2.4d13a232.chunk.js.LICENSE.txt": "/orteney-recipes/static/js/2.4d13a232.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efe8c417.js",
+    "static/js/2.4d13a232.chunk.js",
+    "static/css/main.ae41823f.chunk.css",
+    "static/js/main.cfda8e56.chunk.js"
+  ]
+}
