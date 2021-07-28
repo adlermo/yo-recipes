@@ -1,5 +1,6 @@
 {
   "name": "styled-notes",
+  "homepage": "https://adlermo.github.io/orteney-recipes/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
